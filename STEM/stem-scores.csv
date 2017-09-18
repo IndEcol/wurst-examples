@@ -1,0 +1,34 @@
+IPCC 2013-climate change-GWP 100a,Gas (B),0.44342562859661244
+IPCC 2013-climate change-GWP 100a,Gas (F),0.44342562859661266
+IPCC 2013-climate change-GWP 100a,Gas (CHP),0.4224076873299117
+IPCC 2013-climate change-GWP 100a,Gas-CCS,0.44342562859661266
+IPCC 2013-climate change-GWP 100a,Coal,1.0831678304037529
+IPCC 2013-climate change-GWP 100a,Coal-CCS,1.0831678304037529
+IPCC 2013-climate change-GWP 100a,Nuclear,0.012064272698838396
+IPCC 2013-climate change-GWP 100a,Oil,0.8817903218213747
+IPCC 2013-climate change-GWP 100a,Hydro (R),0.004392600839225139
+IPCC 2013-climate change-GWP 100a,Hydro (D),0.006944565047244717
+IPCC 2013-climate change-GWP 100a,Hydro (P),0.16137078714355607
+IPCC 2013-climate change-GWP 100a,Geothermal,0.07973190589756417
+IPCC 2013-climate change-GWP 100a,Solar,0.09478568257753375
+IPCC 2013-climate change-GWP 100a,Wind,0.030013964472951342
+IPCC 2013-climate change-GWP 100a,Waste/Biogas,0.4224076873299117
+IPCC 2013-climate change-GWP 100a,Biomass,0.05406772325532125
+IPCC 2013-climate change-GWP 100a,CHP (DG),0.05406772325532125
+"ReCiPe Endpoint (H,A)-total-total",Gas (B),0.04443842124876901
+"ReCiPe Endpoint (H,A)-total-total",Gas (F),0.04443842124876901
+"ReCiPe Endpoint (H,A)-total-total",Gas (CHP),0.030132878596797953
+"ReCiPe Endpoint (H,A)-total-total",Gas-CCS,0.04443842124876901
+"ReCiPe Endpoint (H,A)-total-total",Coal,0.08817153748115752
+"ReCiPe Endpoint (H,A)-total-total",Coal-CCS,0.08817153748115752
+"ReCiPe Endpoint (H,A)-total-total",Nuclear,0.0021779223662703553
+"ReCiPe Endpoint (H,A)-total-total",Oil,0.08503452663438651
+"ReCiPe Endpoint (H,A)-total-total",Hydro (R),0.0005561980565911297
+"ReCiPe Endpoint (H,A)-total-total",Hydro (D),0.0007363296427808363
+"ReCiPe Endpoint (H,A)-total-total",Hydro (P),0.015693440502678575
+"ReCiPe Endpoint (H,A)-total-total",Geothermal,0.009035617724552752
+"ReCiPe Endpoint (H,A)-total-total",Solar,0.012563147621453823
+"ReCiPe Endpoint (H,A)-total-total",Wind,0.005849231043037384
+"ReCiPe Endpoint (H,A)-total-total",Waste/Biogas,0.030132878596797967
+"ReCiPe Endpoint (H,A)-total-total",Biomass,0.046625579181421656
+"ReCiPe Endpoint (H,A)-total-total",CHP (DG),0.046625579181421656
